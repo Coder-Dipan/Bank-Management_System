@@ -1,1 +1,1 @@
-# Bank-Management_System
+I created a mini project using C++ which is a banking system where a customer can open a new account by filling his details and deposit or withdraw his money anytime. And at the end, the final amount of the account will be displayed. In this project, I used do-while loop, switch statement to make the logic of customer's choice. The time was taken just 1 hr. to make this project.
